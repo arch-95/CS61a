@@ -10,3 +10,6 @@ The book: http://composingprograms.com/
 
 The WIKI: https://csdiy.wiki/ 
 
+VS Code Introduction: https://cs61a.org/articles/vscode/
+
+61A Code web: https://code.cs61a.org/
